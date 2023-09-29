@@ -1,0 +1,49 @@
+How to install “AI Stackchan-2” with Google STT, OpenAI, and VOICEVOX services.
+
+Original article: https://jun1okamura.medium.com/how-to-install-ai-stackchan-2-with-google-stt-openai-and-voicevox-services-afb9bb1010b
+
+This article describes a step-by-step installation procedure for “AI Stackchan-2”, a voice dictation AI system that utilizes Google Speech-to-Text to recognize and replay using OpenAI’s cloud service and generates real voice using VOICEVOX. Since the original GitHub documentation is in Japanese, I aim to provide an English version with detailed information to setup.
+
+0. System Diagram
+
+1. Download “AI Stackchan-2 PLUS” through M5Burner
+Install M5Burn into your PC then download and burn it to your M5stack Core2.
+
+
+2. Connecting M5stack to WiFi
+Prepare a Micro SDcard and initialize it with FAT32 format, then make a “wifi.txt” file which includes the following SSID/PW text pair.
+
+SSID_NAME
+WIFI_PASSWD
+3. Got OpenAI API key
+Registered your ID on OpenAI.
+
+
+Go to your account menu and chose “View API keys”, then you should create a new secret key.
+
+
+4. Got the VOICEVOX API key
+Got API from here and registered it, VOICEVOX’s official URL is here.
+
+
+
+5. Got Google-STT API key
+Registered your ID on GCP and create a new project first, then enable Speach-to-Text API.
+
+
+Go to API then select Credentials.
+
+
+Select Create Credential on the top menu and API key.
+
+
+6. Connecting M5stack to those Services
+Make an “apikey.txt” file on the SDcard that includes the above API keys.
+
+OPEN_AI_APIKEY
+VOICEVOX_API
+GOOGLE_STT_API
+7. How it works
+Here.
+
+Enjoy!
