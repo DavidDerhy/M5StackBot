@@ -4,8 +4,6 @@ Original article: https://jun1okamura.medium.com/how-to-install-ai-stackchan-2-w
 
 This article describes a step-by-step installation procedure for “AI Stackchan-2”, a voice dictation AI system that utilizes Google Speech-to-Text to recognize and replay using OpenAI’s cloud service and generates real voice using VOICEVOX. Since the original GitHub documentation is in Japanese, I aim to provide an English version with detailed information to setup.
 
-0. System Diagram
-
 
 1. Download “AI Stackchan-2 PLUS” through M5Burner
 Install M5Burn into your PC then download and burn it to your M5stack Core2.
