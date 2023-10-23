@@ -1,14 +1,12 @@
 M5Unified_StackChan_ChatGPT_Global
 This is a multilingual M5Unified_StackChan_ChatGPT.
 
-Image1
-
 
 This is a StackChan firmware that corresponds to @mongonta555's StackChan M5GoBottom Version Assembly Kit.
 
 
 Materials and instructions required to make a M5GoBottom version StackChan main body
-Please refer to this.
+Please refer to this: https://raspberrypi.mongonta.com/about-products-stackchan-m5gobottom-version/
 
 StackChan M5GoBottom Version Assembly Kit
 Materials required to build the program
@@ -75,15 +73,12 @@ Replace XXX.XXX.XXX.XXX with the IP address of the displayed M5Stack at startup.
 
 You can also access it using a browser in the same way as above.
 
-Image2
 
-I use the iPhone's shortcut function for speech recognition. This allows for easy use of speech recognition.
-
-Image3
 
 Touching near the center of the screen of the M5Stack Core2 will stop Stack-chan's head from shaking.
 
 Pressing button C on the M5Stack Core2 allows you to test speech synthesis.
+
 
 Setting Language Configuration
 Please follow these two steps:
@@ -92,8 +87,6 @@ Please follow these two steps:
 Set up ChatGPT configuration
 
 For example, to set the language to English, access "http://xxxx.xxxx.xxxx.xxxx/role" on your browser and set the role as shown below.
-
-Image4
 
 
 TSet up TTS language configuration
@@ -105,9 +98,10 @@ http://xxxx.xxxx.xxxx.xxxx/setting?lang=en-US
 en-US is the language code for English. For other language codes, please refer to the link below.
 
 
-Cloud Speech-to-Text Language Support
+Cloud Speech-to-Text Language Support : https://cloud.google.com/speech-to-text/docs/speech-to-text-supported-languages
 
 Reference links for obtaining ChatGPT API key
-A simple explanation of how to use ChatGPT API
-Reference links for ChatGPT character configuration
-Reference links for ChatGPT character configuration
+
+A simple explanation of how to use ChatGPT API : https://qiita.com/mikito/items/b69f38c54b362c20e9e6
+Reference links for ChatGPT character configuration : https://note.com/it_navi/n/nf5f702b36a75#8e42f887-fb07-4367-9f3f-ab7f119eb064/
+
