@@ -1,6 +1,7 @@
-# Stackchan / ₿o₿
+# Stackchan / ₿o₿ project
 
-<img width="511" alt="image" src="https://github.com/DavidDerhy/BoB/assets/15603952/c8a39e78-66e3-4c6f-b972-206694c99f63">
+<img width="392" alt="Capture d'écran 2023-10-22 024551" src="https://github.com/DavidDerhy/BoB/assets/15603952/a8ab0816-3fe0-4dd0-9fd2-8952d6b6ec02">
+
 
 A kawaï AI assistant & bitcoin ₿ank on top of M5stack built thanks to staking rewards. 
 
