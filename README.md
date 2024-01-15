@@ -1,6 +1,6 @@
 # Stackchan 
 
-domain name: stackchan.com 
+domain name: [stackchan.com ](url)
 
 logo 
 
