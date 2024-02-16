@@ -1,7 +1,6 @@
-# Stackchan 
+# BoB
 
-
-
+Bitcoin Open Bank. 
 An open source AI assistant, crypto hardware wallet & staking machine built on top of M5stack.
 
 
